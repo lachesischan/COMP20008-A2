@@ -11,3 +11,11 @@ Name: zhenlang chen           Student ID: 980799
 
 
 Description of the project: Nowadays, words such as "mental health" and "psychological consultation" have been understood and recognized by more and more people.this project aims to find the factors that may affect mental health, for example, each person’s lifestyle, living environment, economic income and so on. 
+
+
+
+
+
+
+
+List of Dependecies: pandas(for python data cleaning)        lattice(for R data analysis)
