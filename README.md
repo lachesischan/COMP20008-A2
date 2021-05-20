@@ -1,6 +1,10 @@
 # COMP20008-A2
 
-Name:  zhuoling chen Student ID: 1197974 
+Name: zhuoling chen       Student ID: 1197974     
+
+Name: zihan xu           Student ID: 1198129
+
+
 
 
 
